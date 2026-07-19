@@ -5,12 +5,12 @@
 
 🏆 **Winner of the Apple Swift Student Challenge 2026** 🏆
 
-![Platform](https://img.shields.io/badge/Platform-iOS_%7C_iPadOS-black?style=for-the-badge&logo=apple)
-![Language](https://img.shields.io/badge/Language-Swift_6-orange?style=for-the-badge&logo=swift)
-![3D Engine](https://img.shields.io/badge/3D_Engine-RealityKit-blue?style=for-the-badge)
-![Simulations](https://img.shields.io/badge/Simulations-Nuclear_Physics-red?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Modular-purple?style=for-the-badge)
-![Award](https://img.shields.io/badge/Award-SSC_2026_Winner-FFD700?style=for-the-badge&logo=apple)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS-black.svg?style=for-the-badge&logo=apple)
+![Language](https://img.shields.io/badge/Language-Swift%206-orange.svg?style=for-the-badge&logo=swift)
+![3D Engine](https://img.shields.io/badge/3D%20Engine-RealityKit-blue.svg?style=for-the-badge)
+![Simulations](https://img.shields.io/badge/Simulations-Nuclear%20Physics-red.svg?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Modular-purple.svg?style=for-the-badge)
+![Award](https://img.shields.io/badge/Award-SSC%202026%20Winner-ffd700.svg?style=for-the-badge&logo=apple)
 
 ---
 
